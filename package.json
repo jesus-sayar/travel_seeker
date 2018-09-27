@@ -1,0 +1,19 @@
+{
+  "name": "travel_seeker",
+  "description": "Buscador de ofertas de viaje",
+  "keywords": [
+    "scrapping",
+    "puppeteer",
+    "telegram",
+    "bot"
+  ],
+  "author": {
+    "name": "Jesús Miguel Sayar Celestino",
+    "email": "sayar.jesus@gmail.com"
+  },
+  "version": "0.1.0",
+  "dependencies": {
+    "node-telegram-bot-api": "~0.30.0",
+    "puppeteer": "~1.7.0"
+  }
+}
